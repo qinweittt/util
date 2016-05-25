@@ -6,5 +6,9 @@ public class Lsdfjie {
 		// TODO Auto-generated method stub
 		System.out.println(1111);
 	}
-
+	
+	public static void main1(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(5555);
+	}
 }
